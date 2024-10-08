@@ -19,3 +19,8 @@ ul {
   margin-top: 0px;
   margin-bottom: 0px;
 }
+body {
+  margin: 0;
+  font-family: sans-serif;
+  color: aliceblue;
+}
